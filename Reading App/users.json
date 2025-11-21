@@ -1,0 +1,43 @@
+{
+  "signup@lobov.com": {
+    "password": "1f26005589fc7cde490faf310c5aa86e5c1d3075d4fde2120040d3d49362e440",
+    "data": {
+      "books": [
+        {
+          "title": "Mock-1 [Add Maths]",
+          "author": "Unknown",
+          "pages": 7,
+          "current_page": 0,
+          "pages_read": 0,
+          "pdf_path": "data\\signuplobovcom\\Mock-1_Add_Maths_1763680459.pdf",
+          "cover_path": "data\\signuplobovcom\\Mock-1_Add_Maths_1763680459.png"
+        },
+        {
+          "title": "EoY 10 COM Revision Booklet - 2025",
+          "author": "Unknown",
+          "pages": 14,
+          "current_page": 0,
+          "pages_read": 0,
+          "pdf_path": "data\\signuplobovcom\\EoY_10_COM_Revision_Booklet_-_2025_1763687891.pdf",
+          "cover_path": "data\\signuplobovcom\\EoY_10_COM_Revision_Booklet_-_2025_1763687891.png"
+        }
+      ],
+      "stats": {
+        "total_pages": 0,
+        "total_time": 0,
+        "points": 0,
+        "weekly_pages": 0,
+        "monthly_pages": 0
+      },
+      "wpm": 1000,
+      "goals": {
+        "daily": 1,
+        "weekly": 7,
+        "monthly": 30
+      },
+      "name": "Reader",
+      "country": "USA"
+    }
+  },
+  "_last_user": "signup@lobov.com"
+}
